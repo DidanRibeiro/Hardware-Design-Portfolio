@@ -1,0 +1,9 @@
+/History
+/__Previews
+debug.log
+Project Logs*
+*.PrjPCBStructure
+Project Outputs*
+*.OutJob
+*.pdf
+
